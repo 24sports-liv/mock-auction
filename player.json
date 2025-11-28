@@ -1,0 +1,24 @@
+{
+  "teams": [
+    {
+      "name": "VIRAT KOHLI",
+      "img_url": "https://i.postimg.cc/Kc1qPpwz/2.avif"
+    },
+    {
+      "name": "MS DHONI",
+      "img_url": "https://i.postimg.cc/1RbWJc1W/57.avif"
+    },
+    {
+      "name": "ROHIT SHARMA",
+      "img_url": "https://i.postimg.cc/L4JCtQwC/6.avif"
+    },
+    {
+      "name": "RAVINDRA JADEJA",
+      "img_url": "https://i.postimg.cc/XNt2Qc6k/46.avif"
+    },
+    {
+      "name": "UNKNOWN",
+      "img_url": "https://i.postimg.cc/bYZCxVW0/Default-Men.avif"
+    }
+  ]
+}
