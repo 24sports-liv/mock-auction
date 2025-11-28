@@ -1,0 +1,44 @@
+{
+  "teams": [
+    {
+      "name": "CSK",
+      "logo_url": "https://i.postimg.cc/yN3SN9kx/CSK-iplt20-com-20251128-175647-0000.png"
+    },
+    {
+      "name": "DC",
+      "logo_url": "https://i.postimg.cc/858ff56D/DC-iplt20-com-20251128-175701-0000.png"
+    },
+    {
+      "name": "GT",
+      "logo_url": "https://i.postimg.cc/V6jrq8q0/GT-iplt20-com-20251128-175714-0000.png"
+    },
+    {
+      "name": "KKR",
+      "logo_url": "https://i.postimg.cc/j5Vnn57L/KKR-iplt20-com-20251128-175729-0000.png"
+    },
+    {
+      "name": "LSG",
+      "logo_url": "https://i.postimg.cc/5tQFtvj7/LSG-iplt20-com-20251128-175742-0000.png"
+    },
+    {
+      "name": "MI",
+      "logo_url": "https://i.postimg.cc/d1MZZ1yh/MI-iplt20-com-20251128-175756-0000.png"
+    },
+    {
+      "name": "PBKS",
+      "logo_url": "https://i.postimg.cc/3RM00Rvv/PBKS-iplt20-com-20251128-175923-0000.png"
+    },
+    {
+      "name": "RR",
+      "logo_url": "https://i.postimg.cc/8CfrCWjP/RR-iplt20-com-20251128-175937-0000.png"
+    },
+    {
+      "name": "RCB",
+      "logo_url": "https://i.postimg.cc/rpRtpWKL/RCB-iplt20-com-20251128-175948-0000.png"
+    },
+    {
+      "name": "SRH",
+      "logo_url": "https://i.postimg.cc/0NKJNmbN/SRH-iplt20-com-20251128-180000-0000.png"
+    }
+  ]
+}
