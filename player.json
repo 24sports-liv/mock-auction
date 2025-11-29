@@ -30,7 +30,9 @@
     },
     {
       "name": "UNKNOWN",
-      "img_url": "https://i.postimg.cc/bYZCxVW0/Default-Men.avif"
+      "age": "27",
+      "country": "ENG",
+      "category": "BOWLER"
     }
   ]
 }
