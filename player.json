@@ -2,18 +2,30 @@
   "teams": [
     {
       "name": "VIRAT KOHLI",
+      "age": "35",
+      "country": "IND",
+      "category": "BATTER",
       "img_url": "https://i.postimg.cc/Kc1qPpwz/2.avif"
     },
     {
       "name": "MS DHONI",
+      "age": "45",
+      "country": "IND",
+      "category": "WK BATTER",
       "img_url": "https://i.postimg.cc/1RbWJc1W/57.avif"
     },
     {
       "name": "ROHIT SHARMA",
+      "age": "38",
+      "country": "IND",
+      "category": "BATTER",
       "img_url": "https://i.postimg.cc/L4JCtQwC/6.avif"
     },
     {
       "name": "RAVINDRA JADEJA",
+      "age": "35",
+      "country": "IND",
+      "category": "ALL-ROUNDER",
       "img_url": "https://i.postimg.cc/XNt2Qc6k/46.avif"
     },
     {
