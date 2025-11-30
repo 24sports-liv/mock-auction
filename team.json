@@ -2,42 +2,52 @@
   "teams": [
     {
       "name": "CSK",
+      "abbreviation": "CHENNAI SUPER KINGS",
       "logo_url": "https://i.postimg.cc/yN3SN9kx/CSK-iplt20-com-20251128-175647-0000.png"
     },
     {
       "name": "DC",
+      "abbreviation": "DELHI CAPITALS",
       "logo_url": "https://i.postimg.cc/858ff56D/DC-iplt20-com-20251128-175701-0000.png"
     },
     {
       "name": "GT",
+      "abbreviation": "GUJARAT TITANS",
       "logo_url": "https://i.postimg.cc/V6jrq8q0/GT-iplt20-com-20251128-175714-0000.png"
     },
     {
       "name": "KKR",
+      "abbreviation": "KOLKATA KNIGHT RIDERS",
       "logo_url": "https://i.postimg.cc/j5Vnn57L/KKR-iplt20-com-20251128-175729-0000.png"
     },
     {
       "name": "LSG",
+      "abbreviation": "LUCKNOW SUPER GIANTS",
       "logo_url": "https://i.ibb.co/xtdFNRb8/LSG-iplt20-com-20251128-175742-0000.png"
     },
     {
       "name": "MI",
+      "abbreviation": "MUMBAI INDIANS",
       "logo_url": "https://i.postimg.cc/d1MZZ1yh/MI-iplt20-com-20251128-175756-0000.png"
     },
     {
       "name": "PBKS",
+      "abbreviation": "PUNJAB KINGS",
       "logo_url": "https://i.postimg.cc/3RM00Rvv/PBKS-iplt20-com-20251128-175923-0000.png"
     },
     {
       "name": "RR",
+      "abbreviation": "RAJASTHAN ROYALS",
       "logo_url": "https://i.postimg.cc/8CfrCWjP/RR-iplt20-com-20251128-175937-0000.png"
     },
     {
       "name": "RCB",
+      "abbreviation": "ROYAL CHALLENGERS BENGALURU",
       "logo_url": "https://i.postimg.cc/rpRtpWKL/RCB-iplt20-com-20251128-175948-0000.png"
     },
     {
       "name": "SRH",
+      "abbreviation": "SUNRISERS HYDERABAD",
       "logo_url": "https://i.postimg.cc/0NKJNmbN/SRH-iplt20-com-20251128-180000-0000.png"
     }
   ]
