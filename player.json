@@ -1,39 +1,19 @@
 {
   "teams": [
   {
-    "name": "MS DHONI",
-    "age": "44",
-    "country": "IND",
-    "category": "WK-BATTER",
-    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/57.png"
+    "name": "MS DHONI", "age": "44", "country": "IND", "category": "WK-BATTER", "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/57.png"
   },
   {
-    "name": "SANJU SAMSON",
-    "age": "31",
-    "country": "IND",
-    "category": "WK-BATTER",
-    "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+    "name": "SANJU SAMSON", "age": "31", "country": "IND", "category": "WK-BATTER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
   },
   {
-    "name": "RUTURAJ GAIKWAD",
-    "age": "28",
-    "country": "IND",
-    "category": "BATTER",
-    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/102.png"
+    "name": "RUTURAJ GAIKWAD", "age": "28", "country": "IND", "category": "BATTER", "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/102.png"
   },
   {
-    "name": "DEWALD BREVIS",
-    "age": "22",
-    "country": "SA",
-    "category": "BATTER",
-    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/797.png"
+    "name": "DEWALD BREVIS", "age": "22", "country": "SA", "category": "BATTER", "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/797.png"
   },
   {
-    "name": "AYUSH MHATRE",
-    "age": "18",
-    "country": "IND",
-    "category": "BATTER",
-    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3497.png"
+    "name": "AYUSH MHATRE", "age": "18", "country": "IND", "category": "BATTER", "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3497.png"
   },
   {
     "name": "URVIL PATEL",
