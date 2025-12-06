@@ -191,7 +191,7 @@
   },
   {
     "name": "ROBIN MINZ",
-    "age": "",
+    "age": "23",
     "country": "IND",
     "role": "WK-BATTER",
     "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3103.png"
@@ -677,259 +677,266 @@
     "age": "26",
     "country": "IND",
     "category": "BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/62.png"
   },
   {
     "name": "SAI SUDHARSAN",
     "age": "24",
     "country": "IND",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/976.png"
   },
   {
     "name": "SHAHRUKH KHAN",
     "age": "30",
     "country": "IND",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/590.png"
   },
   {
     "name": "JOS BUTTLER",
     "age": "35",
     "country": "ENG",
     "category": "WK-BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/182.png"
   },
   {
     "name": "RASHID KHAN",
     "age": "27",
     "country": "AFG",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/218.png"
   },
   {
     "name": "PRASIDH KRISHNA",
     "age": "29",
     "country": "IND",
     "category": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/150.png"
   },
   {
     "name": "MOHAMMED SIRAJ",
     "age": "31",
     "country": "IND",
     "category": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/63.png"
   },
   {
     "name": "NISHANT SINDHU",
     "age": "21",
     "country": "IND",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/791.png"
+  },,
+  {
+    "name": "KAGISO RABADA",
+    "age": "30",
+    "country": "SA",
+    "category": "BOWLER",
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/116.png"
   },
   {
     "name": "ANUJ RAWAT",
     "age": "26",
     "country": "IND",
     "category": "WK-BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/534.png"
   },
   {
     "name": "KUMAR KUSHAGRA",
     "age": "21",
     "country": "IND",
     "category": "WK-BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3101.png"
   },
   {
     "name": "MANAV SUTHAR",
     "age": "23",
     "country": "IND",
     "category": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2443.png"
   },
   {
     "name": "GURNOOR BRAR",
     "age": "25",
     "country": "IND",
     "category": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1231.png"
   },
   {
     "name": "ISHANT SHARMA",
     "age": "37",
     "country": "IND",
     "category": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/50.png"
   },
   {
     "name": "ARSHAD KHAN",
     "age": "27",
     "country": "IND",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/988.png"
   },
   {
     "name": "SAI KISHORE",
     "age": "29",
     "country": "IND",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/544.png"
   },
   {
     "name": "WASHINGTON SUNDAR",
     "age": "26",
     "country": "IND",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/20.png"
   },
   {
     "name": "GLENN PHILLIPS",
     "age": "29",
     "country": "NZ",
     "category": "BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/635.png"
   },
   {
     "name": "RAHUL TEWATIA",
     "age": "32",
     "country": "IND",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/120.png"
   },
   {
     "name": "JAYANT YADAV",
     "age": "35",
     "country": "IND",
     "category": "ALL-ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/165.png"
   },
   {
     "name": "MANAV SUTHAR",
     "age": "23",
     "country": "IND",
     "category": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2443.png"
   },
   {
     "name": "AXAR PATEL",
     "age": "33",
     "country": "IND",
     "role": "ALL‑ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/110.png"
   },
   {
     "name": "KL RAHUL",
     "age": "33",
     "country": "IND",
     "role": "WK‑BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/19.png"
   },
   {
     "name": "KULDEEP YADAV",
     "age": "33",
     "country": "IND",
     "role": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/14.png"
   },
   {
     "name": "MITCHELL STARC",
     "age": "38",
     "country": "AUS",
     "role": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/31.png"
   },
   {
     "name": "T NATARANJAN",
     "age": "33",
     "country": "IND",
     "role": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/224.png"
   },
   {
     "name": "TRISTAN STUBBS",
     "age": "24",
     "country": "SA",
     "role": "WK‑BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1017.png"
   },
   {
     "name": "MUKESH KUMAR",
     "age": "30",
     "country": "IND",
     "role": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1462.png"
   },
   {
     "name": "ABISHEK POREL",
     "age": "24",
     "country": "IND",
     "role": "WK‑BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1580.png"
   },
   {
     "name": "ASHUTOSH SHARMA",
     "age": "22",
     "country": "IND",
     "role": "ALL‑ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3109.png"
   },
   {
     "name": "SAMEER RIZVI",
     "age": "21",
     "country": "IND",
     "role": "ALL‑ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1229.png"
   },
   {
     "name": "DUSHMANTHA CHAMEERA",
     "age": "34",
     "country": "SL",
     "role": "BOWLER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/14.png"
   },
   {
     "name": "VIPRAJ NIGAM",
     "age": "19",
     "country": "IND",
     "role": "ALL‑ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3560.png"
   },
   {
     "name": "KARUN NAIR",
     "age": "34",
     "country": "IND",
     "role": "BATTER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/131.png"
   },
   {
     "name": "MADHAV TIWARI",
-    "age": "",
+    "age": "22",
     "country": "IND",
     "role": "ALL‑ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3561.png"
   },
   {
     "name": "TRIPURANA VIJAY",
-    "age": "",
+    "age": "24",
     "country": "IND",
     "role": "ALL‑ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3563.png"
   },
   {
     "name": "AJAY MANDAL",
-    "age": "",
+    "age": "29",
     "country": "IND",
     "role": "ALL‑ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1931.png"
   },
   {
     "name": "NITISH RANA",
     "age": "31",
     "country": "IND",
     "role": "ALL‑ROUNDER",
-    "img_url": ""
+    "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
   },
   {
     "name": "SHREYAS IYER",
