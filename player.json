@@ -28,11 +28,1218 @@
       "category": "ALL-ROUNDER",
       "img_url": "https://i.postimg.cc/XNt2Qc6k/46.avif"
     },
-    {
-      "name": "CAMERON FINCH",
-      "age": "27",
-      "country": "ENG",
-      "category": "BOWLER"
-    }
-  ]
+  {
+    "name": "MS DHONI",
+    "age": "44",
+    "country": "IND",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "SANJU SAMSON",
+    "age": "31",
+    "country": "IND",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "RUTURAJ GAIKWAD",
+    "age": "28",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "DEWALD BREVIS",
+    "age": "22",
+    "country": "SA",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "AYUSH MHATRE",
+    "age": "18",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "URVIL PATEL",
+    "age": "27",
+    "country": "IND",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ANSHUL KAMBOJ",
+    "age": "25",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "JAMIE OVERTON",
+    "age": "31",
+    "country": "ENG",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "RAMAKRISHNA GHOSH",
+    "age": "28",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SHIVAM DUBE",
+    "age": "32",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "KHALEEL AHMED",
+    "age": "28",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "NOOR AHMED",
+    "age": "20",
+    "country": "AFG",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "MUKESH CHOUDHARY",
+    "age": "29",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "NATHAN ELLIS",
+    "age": "31",
+    "country": "AUS",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "SHREYAS GOPAL",
+    "age": "32",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "GURJAPNEET SINGH",
+    "age": "27",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "ROHIT SHARMA",
+    "age": "38",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "SURYAKUMAR YADAV",
+    "age": "35",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "TILAK VARMA",
+    "age": "23",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "HARDIK PANDYA",
+    "age": "32",
+    "country": "IND",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "JASPRIT BUMRAH",
+    "age": "32",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "TRENT BOULT",
+    "age": "35",
+    "country": "NZ",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "DEEPAK CHAHAR",
+    "age": "33",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "NAMAN DHIR",
+    "age": "25",
+    "country": "IND",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "AM GHAZANFAR",
+    "age": "19",
+    "country": "AFG",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "MITCHELL SANTNER",
+    "age": "33",
+    "country": "NZ",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "RYAN RICKELTON",
+    "age": "29",
+    "country": "SA",
+    "role": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ROBIN MINZ",
+    "age": "",
+    "country": "IND",
+    "role": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "RAJ ANGAD BAWA",
+    "age": "23",
+    "country": "IND",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "ASHWANI KUMAR",
+    "age": "24",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "CORBIN BOSCH",
+    "age": "31",
+    "country": "SA",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "WILL JACKS",
+    "age": "27",
+    "country": "ENG",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SHARDUL THAKUR",
+    "age": "34",
+    "country": "IND",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "MAYANK MARKANDE",
+    "age": "28",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "SHERFANE RUTHERFORD",
+    "age": "27",
+    "country": "WI",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "RAGHU SHARMA",
+    "age": "32",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "VIRAT KOHLI",
+    "age": "37",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "RAJAT PATIDAR",
+    "age": "32",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "DEVDUTT PADIKKAL",
+    "age": "25",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "PHIL SALT",
+    "age": "29",
+    "country": "ENG",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "JITESH SHARMA",
+    "age": "32",
+    "country": "IND",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "KRUNAL PANDYA",
+    "age": "34",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "TIM DAVID",
+    "age": "29",
+    "country": "AUS",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "JACOB BETHELL",
+    "age": "22",
+    "country": "ENG",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "JOSH HAZLEWOOD",
+    "age": "34",
+    "country": "AUS",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "YASH DAAL",
+    "age": "28",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "SWAPNIL SINGH",
+    "age": "34",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SUYASH SHARMA",
+    "age": "22",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "BHUvNESHWAR KUMAR",
+    "age": "35",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "ROMARIO SHEPHERD",
+    "age": "31",
+    "country": "WI",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "RASIKH SALAM DAR",
+    "age": "25",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "NUWAN THUSHARA",
+    "age": "31",
+    "country": "",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "ABHINANDAN SINGH",
+    "age": "28",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "PAT CUMMINS",
+    "age": "32",
+    "country": "AUS",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "TRAVIS HEAD",
+    "age": "32",
+    "country": "AUS",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ABHISHEK SHARMA",
+    "age": "25",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "ISHAN KISHAN",
+    "age": "27",
+    "country": "IND",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "HEINRICH KLAASEN",
+    "age": "34",
+    "country": "SA",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ANIKET VERMA",
+    "age": "23",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "SMARAN RAVICHANDRAN",
+    "age": "22",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "KAMINDU MENDIS",
+    "age": "27",
+    "country": "SL",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "NITISH KUMAR REDDY",
+    "age": "22",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "HARSH DUBEY",
+    "age": "23",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "HARSHAL PATEL",
+    "age": "35",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "BRYDON CARSE",
+    "age": "30",
+    "country": "ENG",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "JAYDEV UNADKAT",
+    "age": "34",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "EHSAN MALINGA",
+    "age": "24",
+    "country": "SL",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "ZEESHAN ANSARI",
+    "age": "26",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "YASHASVI JAISWAL",
+    "age": "23",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "VAIBHAV SURYAVANSHI",
+    "age": "14",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "DHRUV JUREL",
+    "age": "24",
+    "country": "IND",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "RIYAN PARAG",
+    "age": "24",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "SHUBHAM DUBEY",
+    "age": "31",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "SHIMRON HETMYER",
+    "age": "29",
+    "country": "WI",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "JOFRA ARCHER",
+    "age": "30",
+    "country": "ENG",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "TUSHAR DESHPANDE",
+    "age": "30",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "SANDEEP SHARMA",
+    "age": "32",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "KWENA MAPHAKA",
+    "age": "19",
+    "country": "SA",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "NANDRE BURGER",
+    "age": "30",
+    "country": "SA",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "LHUAN-DRE PRETORIUS",
+    "age": "19",
+    "country": "SA",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "YUDHVIR SINGH CHARAK",
+    "age": "28",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "RAVINDRA JADEJA",
+    "age": "36",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SAM CURRAN",
+    "age": "27",
+    "country": "ENG",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "DONOVAN FERREIRA",
+    "age": "27",
+    "country": "SA",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "AJINKYA RAHANE",
+    "age": "37",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "RINKU SINGH",
+    "age": "28",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ANGKRISH RAGHUVANSHI",
+    "age": "21",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "MANISH PANDEY",
+    "age": "36",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ROVMAN POWELL",
+    "age": "32",
+    "country": "WI",
+    "category": "BATT–ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "ANUKUL ROY",
+    "age": "26",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "RAMANDEEP SINGH",
+    "age": "28",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "HARSHIT RANA",
+    "age": "24",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "VAIBHAV ARORA",
+    "age": "28",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "UMRAN MALIK",
+    "age": "26",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "VARUN CHAKRAVARTHY",
+    "age": "34",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "SUNIL NARINE",
+    "age": "37",
+    "country": "WI",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  [
+  {
+    "name": "SHUBMAN GILL",
+    "age": "26",
+    "country": "IND",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "SAI SUDHARSAN",
+    "age": "24",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SHAHRUKH KHAN",
+    "age": "30",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "JOS BUTTLER",
+    "age": "35",
+    "country": "ENG",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "RASHID KHAN",
+    "age": "27",
+    "country": "AFG",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "PRASIDH KRISHNA",
+    "age": "29",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "MOHAMMED SIRAJ",
+    "age": "31",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "NISHANT SINDHU",
+    "age": "21",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "ANUJ RAWAT",
+    "age": "26",
+    "country": "IND",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "KUMAR KUSHAGRA",
+    "age": "21",
+    "country": "IND",
+    "category": "WK-BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "MANAV SUTHAR",
+    "age": "23",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "GURNOOR BRAR",
+    "age": "25",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "ISHANT SHARMA",
+    "age": "37",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "ARSHAD KHAN",
+    "age": "27",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SAI KISHORE",
+    "age": "29",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "WASHINGTON SUNDAR",
+    "age": "26",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "GLENN PHILLIPS",
+    "age": "29",
+    "country": "NZ",
+    "category": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "RAHUL TEWATIA",
+    "age": "32",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "JAYANT YADAV",
+    "age": "35",
+    "country": "IND",
+    "category": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "MANAV SUTHAR",
+    "age": "23",
+    "country": "IND",
+    "category": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "AXAR PATEL",
+    "age": "33",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "KL RAHUL",
+    "age": "33",
+    "country": "IND",
+    "role": "WK‑BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "KULDEEP YADAV",
+    "age": "33",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "MITCHELL STARC",
+    "age": "38",
+    "country": "AUS",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "T NATARANJAN",
+    "age": "33",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "TRISTAN STUBBS",
+    "age": "24",
+    "country": "SA",
+    "role": "WK‑BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "age": "30",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "ABISHEK POREL",
+    "age": "24",
+    "country": "IND",
+    "role": "WK‑BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ASHUTOSH SHARMA",
+    "age": "22",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SAMEER RIZVI",
+    "age": "21",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "DUSHMANTHA CHAMEERA",
+    "age": "34",
+    "country": "SL",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "VIPRAJ NIGAM",
+    "age": "19",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "KARUN NAIR",
+    "age": "34",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "MADHAV TIWARI",
+    "age": "",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "TRIPURANA VIJAY",
+    "age": "",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "AJAY MANDAL",
+    "age": "",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "NITISH RANA",
+    "age": "31",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SHREYAS IYER",
+    "age": "31",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ARSHDEEP SINGH",
+    "age": "26",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "YUZVENDRA CHAHAL",
+    "age": "35",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "MARCUS STOINIS",
+    "age": "36",
+    "country": "OVERSEAS",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "MARCO JANSEN",
+    "age": "25",
+    "country": "OVERSEAS",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SHASHANK SINGH",
+    "age": "34",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "NEHAL WADHERA",
+    "age": "25",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "PRABHSIMRAN SINGH",
+    "age": "25",
+    "country": "IND",
+    "role": "WK‑BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "PRIYANSH ARYA",
+    "age": "24",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "AZMATULLAH OMARZAI",
+    "age": "25",
+    "country": "OVERSEAS",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "LOCKIE FERGUSON",
+    "age": "34",
+    "country": "NZ",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "VIJAYKUMAR VYSHAK",
+    "age": "28",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "YASH THAKUR",
+    "age": "26",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "HARPREET BRAR",
+    "age": "30",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "VISHNU VINOD",
+    "age": "32",
+    "country": "IND",
+    "role": "BATTER/WK",
+    "img_url": ""
+  },
+  {
+    "name": "XAVIER BARTLETT",
+    "age": "26",
+    "country": "OVERSEAS",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "SURYANSH SHEDGE",
+    "age": "22",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "PYLA AVINASH",
+    "age": "25",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "MUSHEER KHAN",
+    "age": "20",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "HARNOOR SINGH",
+    "age": "22",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "MITCHELL OWEN",
+    "age": "24",
+    "country": "AUS",
+    "role": "ALL-ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "RISHABH PANT",
+    "age": "32",
+    "country": "IND",
+    "role": "WK‑BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "NICHOLAS POORAN",
+    "age": "33",
+    "country": "WI",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "MITCHELL MARSH",
+    "age": "33",
+    "country": "AUS",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "AIDEN MARKRAM",
+    "age": "31",
+    "country": "SA",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "AYUSH BADONI",
+    "age": "25",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "HIMMAT SINGH",
+    "age": "29",
+    "country": "IND",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "MATTHEW BREETZKE",
+    "age": "28",
+    "country": "SA",
+    "role": "BATTER",
+    "img_url": ""
+  },
+  {
+    "name": "ABDUL SAMAD",
+    "age": "28",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "SHAHBAZ AHAMAD",
+    "age": "30",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "ARSHIN KULKARNI",
+    "age": "20",
+    "country": "IND",
+    "role": "ALL‑ROUNDER",
+    "img_url": ""
+  },
+  {
+    "name": "DIGVESH RATHI",
+    "age": "25",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "AVESH KHAN",
+    "age": "28",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "AKASH SINGH",
+    "age": "23",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "PRINCE YADAV",
+    "age": "23",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "M. SIDDHARTH",
+    "age": "27",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "MOHSIN KHAN",
+    "age": "28",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "MAYANK YADAV",
+    "age": "25",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "MOHAMMAD SHAMI",
+    "age": "34",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  },
+  {
+    "name": "ARJUN TENDULKAR",
+    "age": "26",
+    "country": "IND",
+    "role": "BOWLER",
+    "img_url": ""
+  }
+]
+
 }
