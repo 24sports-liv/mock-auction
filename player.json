@@ -171,6 +171,924 @@
   {"name":"MOHSIN KHAN","age":"28","country":"IND","category":"BOWLER","img_url":"https://documents.iplt20.com/ipl/IPLHeadshot2024/541.png"},
   {"name":"MAYANK YADAV","age":"25","country":"IND","category":"BOWLER","img_url":"https://documents.iplt20.com/ipl/IPLHeadshot2024/987.png"},
   {"name":"MOHAMMAD SHAMI","age":"34","country":"IND","category":"BOWLER","img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"},
-  {"name":"ARJUN TENDULKAR","age":"26","country":"IND","category":"BOWLER","img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"}
+  {"name":"ARJUN TENDULKAR","age":"26","country":"IND","category":"BOWLER","img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"},
+  
+{
+"name": "DEVON CONWAY",
+"age": "34",
+"country": "NZ",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/601.png"
+},
+{
+"name": "JAKE FRASER-MCGURK",
+"age": "23",
+"country": "AUS",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1017.png"
+},
+{
+"name": "PRITHVI SHAW",
+"age": "26",
+"country": "IND",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/51.png"
+},
+{
+"name": "MAYANK AGARWAL",
+"age": "34",
+"country": "IND",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/55.png"
+},
+{
+"name": "DAVID MILLER",
+"age": "36",
+"country": "SA",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/128.png"
+},
+{
+"name": "JONNY BAIRSTOW",
+"age": "36",
+"country": "ENG",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/216.png"
+},
+{
+"name": "QUINTON DE KOCK",
+"age": "33",
+"country": "SA",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/170.png"
+},
+{
+"name": "RAHMANULLAH GURBAZ",
+"age": "24",
+"country": "AFG",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/641.png"
+},
+{
+"name": "JOSH INGLIS",
+"age": "30",
+"country": "AUS",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/647.png"
+},
+{
+"name": "CAMERON GREEN",
+"age": "26",
+"country": "AUS",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/550.png"
+},
+{
+"name": "LIAM LIVINGSTONE",
+"age": "32",
+"country": "ENG",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/183.png"
+},
+{
+"name": "VENKATESH IYER",
+"age": "",
+"country": "IND",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/584.png"
+},
+{
+"name": "RACHIN RAVINDRA",
+"age": "26",
+"country": "NZ",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/724.png"
+},
+{
+"name": "DARYL MITCHELL",
+"age": "34",
+"country": "NZ",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/83.png"
+},
+{
+"name": "AARON HARDIE",
+"age": "26",
+"country": "AUS",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2704.png"
+},
+{
+"name": "MATTHEW SHORT",
+"age": "30",
+"country": "AUS",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2023/2032.png"
+},
+{
+"name": "MICHAEL BRACEWELL",
+"age": "34",
+"country": "NZ",
+"category": "ALL-ROUNDER",
+"img_url": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/players/2108.webp"
+},
+{
+"name": "RAVI BISHNOI",
+"age": "22",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/520.png"
+},
+{
+"name": "RAHUL CHAHAR",
+"age": "28",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/171.png"
+},
+{
+"name": "WANINDU HASARANGA",
+"age": "27",
+"country": "SL",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/377.png"
+},
+{
+"name": "WAQAR SALAMKHEIL",
+"age": "23",
+"country": "AFG",
+"category": "BOWLER",
+"img_url": "https://www.ilt20.ae/static-assets/images/players/67943.png"
+},
+{
+"name": "MAHEESH THEEKSHANA",
+"age": "23",
+"country": "SL",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/629.png"
+},
+{
+"name": "ADAM ZAMPA",
+"age": "31",
+"country": "AUS",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/24.png"
+},
+{
+"name": "AKEAL HOSEIN",
+"age": "31",
+"country": "WI",
+"category": "BOWLER",
+"img_url": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/players/877.webp"
+},
+{
+"name": "MATHEESHA PATHIRANA",
+"age": "26",
+"country": "SL",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1014.png"
+},
+{
+"name": "ANRICH NORTJE",
+"age": "29",
+"country": "SA",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/142.png"
+},
+{
+"name": "GERALD COETZEE",
+"age": "23",
+"country": "SA",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2535.png"
+},
+{
+"name": "AKASH DEEP",
+"age": "29",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1007.png"
+},
+{
+"name": "SPENCER JOHNSON",
+"age": "27",
+"country": "AUS",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2518.png"
+},
+{
+"name": "MATT HENRY",
+"age": "34",
+"country": "NZ",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/71.png"
+},
+{
+"name": "LUNGI NGIDI",
+"age": "28",
+"country": "SA",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/99.png"
+},
+{
+"name": "JACOB DUFFY",
+"age": "32",
+"country": "NZ",
+"category": "BOWLER",
+"img_url": "https://resources.ecb.co.uk/photo-resources/2025/08/12/359ed7c1-c520-4b17-8782-dbbe01a140fb/Jacob-Duffy.png?width=920&height=1380"
+},
+{
+"name": "AKASH MADHWAL",
+"age": "27",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1045.png"
+},
+{
+"name": "ABHINAV MANOHAR",
+"age": "27",
+"country": "IND",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/974.png"
+},
+{
+"name": "SALMAN NIZAR",
+"age": "23",
+"country": "IND",
+"category": "BATTER",
+"img_url": "https://calicutglobstars.in/wp-content/uploads/2025/07/salman-1.jpg"
+},
+{
+"name": "YASH DHULL",
+"age": "21",
+"country": "IND",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/777.png"
+},
+{
+"name": "ANMOLPREET SINGH",
+"age": "28",
+"country": "IND",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/159.png"
+},
+{
+"name": "ATHARVA TAIDE",
+"age": "24",
+"country": "IND",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1001.png"
+},
+{
+"name": "KARTIK SHARMA",
+"age": "26",
+"country": "IND",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "MAHIPAL LOMROR",
+"age": "27",
+"country": "IND",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/184.png"
+},
+{
+"name": "PRASHANT VEER",
+"age": "25",
+"country": "IND",
+"category": "ALL-ROUNDER",
+"img_url": "https://noidakings.co.in/wp-content/uploads/2024/08/Prashant-Veer.webp"
+},
+{
+"name": "UTKARSH SINGH",
+"age": "24",
+"country": "IND",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/playerheadshot/ipl/284/3841.png"
+},
+{
+"name": "ARYAN JUYAL",
+"age": "24",
+"country": "IND",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/990.png"
+},
+{
+"name": "LUVNITH SISODIA",
+"age": "22",
+"country": "IND",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1009.png"
+},
+{
+"name": "UPENDRA SINGH YADAV",
+"age": "23",
+"country": "IND",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/1472.png"
+},
+{
+"name": "VANSH BEDI",
+"age": "24",
+"country": "IND",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3558.png"
+},
+{
+"name": "SIMARJEET SINGH",
+"age": "27",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/622.png"
+},
+{
+"name": "KARTIK TYAGI",
+"age": "27",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/536.png"
+},
+{
+"name": "KARN SHARMA",
+"age": "35",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/98.png"
+},
+{
+"name": "KUMAR KARTIKEYA",
+"age": "25",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1015.png"
+},
+{
+"name": "DEEPAK HOODA",
+"age": "33",
+"country": "IND",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/215.png"
+},
+{
+"name": "GUNDAKESH MOTIE",
+"age": "28",
+"country": "WI",
+"category": "ALL-ROUNDER",
+"img_url": "https://www.wisden.com/static-assets/images/players/64262.png"
+},
+{
+"name": "COOPER CONNOLLY",
+"age": "22",
+"country": "AUS",
+"category": "ALL-ROUNDER",
+"img_url": "https://static-files.cricket-australia.pulselive.com/headshots/288/3958-bbl.png"
+},
+{
+"name": "JASON HOLDER",
+"age": "33",
+"country": "WI",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2023/263.png"
+},
+{
+"name": "GUS ATKINSON",
+"age": "26",
+"country": "ENG",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "TOM CURRAN",
+"age": "30",
+"country": "ENG",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/309.png"
+},
+{
+"name": "KRISHNAPPA GOWTHAM",
+"age": "36",
+"country": "IND",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/179.png"
+},
+{
+"name": "MOHAMMED NABI",
+"age": "41",
+"country": "AFG",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/217.png"
+},
+{
+"name": "GULBADIN NAIB",
+"age": "34",
+"country": "AFG",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/234.png"
+},
+{
+"name": "SIKANDAR RAZA",
+"age": "35",
+"country": "ZIM",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/820.png"
+},
+{
+"name": "JIMMY NEESHAM",
+"age": "35",
+"country": "NZ",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/playerheadshot/ipl/284/971.png"
+},
+{
+"name": "WIAAN MULDER",
+"age": "29",
+"country": "SA",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/630.png"
+},
+{
+"name": "FINN ALLEN",
+"age": "27",
+"country": "NZ",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2023/595.png"
+},
+{
+"name": "BEN DUCKETT",
+"age": "32",
+"country": "ENG",
+"category": "WK-BATTER",
+"img_url": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/323100/323115.png"
+},
+{
+"name": "EVIN LEWIS",
+"age": "32",
+"country": "WI",
+"category": "WK-BATTER",
+"img_url": "https://assets.iplt20.com/ipl/IPLHeadshot2022/872.png"
+},
+{
+"name": "RASSIE VAN DER DUSSEN",
+"age": "34",
+"country": "SA",
+"category": "WK-BATTER",
+"img_url": "https://assets.iplt20.com/ipl/IPLHeadshot2022/20619.png"
+},
+[
+"name": "KS BHARAT",
+"age": "31",
+"country": "IND",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/365.png"
+},
+{
+"name": "ALEX CAREY",
+"age": "31",
+"country": "AUS",
+"category": "WK-BATTER",
+"img_url": "https://static-files.cricket-australia.pulselive.com/headshots/440/291-camedia.png"
+},
+{
+"name": "SHAI HOPE",
+"age": "33",
+"country": "WI",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/268.png"
+},
+{
+"name": "JORDAN COX",
+"age": "22",
+"country": "ENG",
+"category": "WK-BATTER",
+"img_url": "https://www.gulfgiants.com/static-assets/images/players/70925.png"
+},
+{
+"name": "KUSAL MENDIS",
+"age": "29",
+"country": "SL",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/276.png"
+},
+{
+"name": "TIM SEIFERT",
+"age": "30",
+"country": "NZ",
+"category": "WK-BATTER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/82.png"
+},
+{
+"name": "JAMIE SMITH",
+"age": "28",
+"country": "ENG",
+"category": "WK-BATTER",
+"img_url": "https://resources.ecb.co.uk/player-photos/test/800x800/5223.png"
+},
+{
+"name": "KESAV MAHARAJ",
+"age": "34",
+"country": "SA",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/347.png"
+},
+{
+"name": "MUJEEB UR RAHMAN",
+"age": "27",
+"country": "AFG",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/134.png"
+},
+{
+"name": "ADIL RASHID",
+"age": "38",
+"country": "ENG",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2023/311.png"
+},
+{
+"name": "VIJAYAKANTH VIYASKANTH",
+"age": "22",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/3153.png"
+},
+{
+"name": "WILLIAM O'ROURKE",
+"age": "22",
+"country": "ENG",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/3398.png"
+},
+{
+"name": "KYLE JAMIESON",
+"age": "30",
+"country": "NZ",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/2704.png"
+},
+{
+"name": "MUSTAFIZUR RAHMAN",
+"age": "28",
+"country": "BAN",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/258.png"
+},
+{
+"name": "NAVEEN UL HAQ",
+"age": "27",
+"country": "AFG",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/639.png"
+},
+{
+"name": "UMESH YADAV",
+"age": "35",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/21.png"
+},
+{
+"name": "FAZALHAQ FAROOQI",
+"age": "26",
+"country": "AFG",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1011.png"
+},
+{
+"name": "RICHARD GLEESON",
+"age": "33",
+"country": "ENG",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1219.png"
+},
+{
+"name": "ALZARRI JOSEPH",
+"age": "30",
+"country": "WI",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2024/229.png"
+},
+{
+"name": "SAURABH NETRAVALKAR",
+"age": "34",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://splcms.blob.core.windows.net/cricketnest/client_1/1_association/players/2723.webp"
+},
+{
+"name": "KULDEEP SEN",
+"age": "27",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/1005.png
+"
+},
+{
+"name": "SEAN ABBOTT",
+"age": "31",
+"country": "AUS",
+"category": "ALL-ROUNDER",
+"img_url": "https://assets.iplt20.com/ipl/IPLHeadshot2022/942.png"
+},
+{
+"name": "SARFARAZ KHAN",
+"age": "28",
+"country": "IND",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2023/139.png"
+},
+{
+"name": "KARIM JANAT",
+"age": "30",
+"country": "AFG",
+"category": "ALL-ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/247.png"
+},
+{
+"name": "QAIS AHMED",
+"age": "28",
+"country": "AFG",
+"category": "ALL-ROUNDER",
+"img_url": "https://img1.hscicdn.com/image/upload/lsci/db/PICTURES/CMS/321300/321329.png"
+},
+{
+"name": "CHARITH ASALANKA",
+"age": "27",
+"country": "SL",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/IPLHeadshot2025/605.png"
+},
+{
+"name": "MATTHEW FORDE",
+"age": "22",
+"country": "ENG",
+"category": "ALL-ROUNDER",
+"img_url": "https://i0.wp.com/cricket268.com/wp-content/uploads/2022/05/matt.jpg"
+},
+{
+"name": "DANIEL MOUSLEY",
+"age": "23",
+"country": "ENG",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "DUNITH WELLALAGE",
+"age": "21",
+"country": "SL",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "DUSHAN HEMANTHA",
+"age": "23",
+"country": "SL",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "DANIEL SAMS",
+"age": "32",
+"country": "AUS",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "WILLIAM SUTHERLAND",
+"age": "23",
+"country": "AUS",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "ZAKARY FAULKES",
+"age": "22",
+"country": "ENG",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "CHRIS GREEN",
+"age": "30",
+"country": "AUS",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+[
+{
+"name": "RILEE ROSSOUW",
+"age": "34",
+"country": "SA",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "ASHTON TURNER",
+"age": "30",
+"country": "AUS",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "JAMES VINCE",
+"age": "35",
+"country": "ENG",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "SEDIQULLAH ATAL",
+"age": "25",
+"country": "AFG",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "MARK CHAPMAN",
+"age": "32",
+"country": "NZ",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "PATHUM NISSANKA",
+"age": "27",
+"country": "SL",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "BHANUKA RAJAPAKSA",
+"age": "33",
+"country": "SL",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "STEVE SMITH",
+"age": "36",
+"country": "AUS",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "TOWHID HRIDOY",
+"age": "25",
+"country": "BAN",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "MIKYLE LOUIS",
+"age": "28",
+"country": "WI",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "HARRY TECTOR",
+"age": "27",
+"country": "IRE",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "WILL YOUNG",
+"age": "30",
+"country": "NZ",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "NAJIBULLAH ZADRAN",
+"age": "27",
+"country": "AFG",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "IBRAHIM ZADRAN",
+"age": "23",
+"country": "AFG",
+"category": "BATTER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "REECE TOPLEY",
+"age": "30",
+"country": "ENG",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "LIZARD WILLIAMS",
+"age": "27",
+"country": "WI",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "LUKE WOOD",
+"age": "33",
+"country": "ENG",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "JASON BEHRENDORFF",
+"age": "34",
+"country": "AUS",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "SHAMAR JOSEPH",
+"age": "28",
+"country": "WI",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "JOSH LITTLE",
+"age": "26",
+"country": "IRE",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "SHIVAM MAVI",
+"age": "27",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "JHYE RICHARDSON",
+"age": "29",
+"country": "AUS",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "NAVDEEP SAINI",
+"age": "29",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "OTTNEIL BAARTMAN",
+"age": "32",
+"country": "SA",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "DILSHAN MADUSHANKA",
+"age": "27",
+"country": "SL",
+"category": "ALL-ROUNDER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "ADAM MILNE",
+"age": "32",
+"country": "NZ",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+{
+"name": "CHETAN SAKARIYA",
+"age": "27",
+"country": "IND",
+"category": "BOWLER",
+"img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+},
+[
+{ "name": "SANDEEP WARRIER", "age": "32", "country": "IND", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "TASKIN AHMED", "age": "29", "country": "BAN", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "BEN DWARSHIUS", "age": "27", "country": "AUS", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "OBED MCCOY", "age": "28", "country": "WI", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "RILEY MEREDITH", "age": "28", "country": "AUS", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "LANCE MORRIS", "age": "29", "country": "AUS", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "OLLY STONE", "age": "31", "country": "ENG", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "DANIEL WORRALL", "age": "31", "country": "AUS", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "SHORIFUL ISLAM", "age": "26", "country": "BAN", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "BLESSING MAZURBANI", "age": "28", "country": "ZIM", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "DARYN DUPAVILLON", "age": "33", "country": "SA", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "LAHIRU KUMARA", "age": "29", "country": "SL", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "RICHARD NGARAVA", "age": "28", "country": "ZIM", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "WAYNE PARNELL", "age": "34", "country": "SA", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "ANDREW TYE", "age": "36", "country": "AUS", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "MATTHEW POTTS", "age": "27", "country": "ENG", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "TANZIM HASAN SAKIB", "age": "25", "country": "BAN", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "BENJAMIN SEARS", "age": "28", "country": "WI", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "JOHN TURNER", "age": "26", "country": "ENG", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "CHRIS JORDAN", "age": "35", "country": "ENG", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "HASAN MAHMUD", "age": "28", "country": "BAN", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "TYMAL MILLS", "age": "32", "country": "ENG", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "DAVID PAYNE", "age": "35", "country": "ENG", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" },
+{ "name": "NAHID RANA", "age": "24", "country": "BAN", "category": "BOWLER", "img_url": "https://documents.iplt20.com/ipl/assets/images/Default-Men.png" }
+]
 ]
 }
