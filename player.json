@@ -1904,363 +1904,362 @@
          "category":"ALL-ROUNDER",
          "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
       },
-      [
-         {
-            "name":"RILEE ROSSOUW",
-            "age":"34",
-            "country":"SA",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"ASHTON TURNER",
-            "age":"30",
-            "country":"AUS",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"JAMES VINCE",
-            "age":"35",
-            "country":"ENG",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"SEDIQULLAH ATAL",
-            "age":"25",
-            "country":"AFG",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"MARK CHAPMAN",
-            "age":"32",
-            "country":"NZ",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"PATHUM NISSANKA",
-            "age":"27",
-            "country":"SL",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"BHANUKA RAJAPAKSA",
-            "age":"33",
-            "country":"SL",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"STEVE SMITH",
-            "age":"36",
-            "country":"AUS",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"TOWHID HRIDOY",
-            "age":"25",
-            "country":"BAN",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"MIKYLE LOUIS",
-            "age":"28",
-            "country":"WI",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"HARRY TECTOR",
-            "age":"27",
-            "country":"IRE",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"WILL YOUNG",
-            "age":"30",
-            "country":"NZ",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"NAJIBULLAH ZADRAN",
-            "age":"27",
-            "country":"AFG",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"IBRAHIM ZADRAN",
-            "age":"23",
-            "country":"AFG",
-            "category":"BATTER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"REECE TOPLEY",
-            "age":"30",
-            "country":"ENG",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"LIZARD WILLIAMS",
-            "age":"27",
-            "country":"WI",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"LUKE WOOD",
-            "age":"33",
-            "country":"ENG",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"JASON BEHRENDORFF",
-            "age":"34",
-            "country":"AUS",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"SHAMAR JOSEPH",
-            "age":"28",
-            "country":"WI",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"JOSH LITTLE",
-            "age":"26",
-            "country":"IRE",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"SHIVAM MAVI",
-            "age":"27",
-            "country":"IND",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"JHYE RICHARDSON",
-            "age":"29",
-            "country":"AUS",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"NAVDEEP SAINI",
-            "age":"29",
-            "country":"IND",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"OTTNEIL BAARTMAN",
-            "age":"32",
-            "country":"SA",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"DILSHAN MADUSHANKA",
-            "age":"27",
-            "country":"SL",
-            "category":"ALL-ROUNDER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"ADAM MILNE",
-            "age":"32",
-            "country":"NZ",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"CHETAN SAKARIYA",
-            "age":"27",
-            "country":"IND",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"SANDEEP WARRIER",
-            "age":"32",
-            "country":"IND",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"TASKIN AHMED",
-            "age":"29",
-            "country":"BAN",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"BEN DWARSHIUS",
-            "age":"27",
-            "country":"AUS",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"OBED MCCOY",
-            "age":"28",
-            "country":"WI",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"RILEY MEREDITH",
-            "age":"28",
-            "country":"AUS",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"LANCE MORRIS",
-            "age":"29",
-            "country":"AUS",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"OLLY STONE",
-            "age":"31",
-            "country":"ENG",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"DANIEL WORRALL",
-            "age":"31",
-            "country":"AUS",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"SHORIFUL ISLAM",
-            "age":"26",
-            "country":"BAN",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"BLESSING MAZURBANI",
-            "age":"28",
-            "country":"ZIM",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"DARYN DUPAVILLON",
-            "age":"33",
-            "country":"SA",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"LAHIRU KUMARA",
-            "age":"29",
-            "country":"SL",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"RICHARD NGARAVA",
-            "age":"28",
-            "country":"ZIM",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"WAYNE PARNELL",
-            "age":"34",
-            "country":"SA",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"ANDREW TYE",
-            "age":"36",
-            "country":"AUS",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"MATTHEW POTTS",
-            "age":"27",
-            "country":"ENG",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"TANZIM HASAN SAKIB",
-            "age":"25",
-            "country":"BAN",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"BENJAMIN SEARS",
-            "age":"28",
-            "country":"WI",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"JOHN TURNER",
-            "age":"26",
-            "country":"ENG",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"CHRIS JORDAN",
-            "age":"35",
-            "country":"ENG",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"HASAN MAHMUD",
-            "age":"28",
-            "country":"BAN",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"TYMAL MILLS",
-            "age":"32",
-            "country":"ENG",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"DAVID PAYNE",
-            "age":"35",
-            "country":"ENG",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         },
-         {
-            "name":"NAHID RANA",
-            "age":"24",
-            "country":"BAN",
-            "category":"BOWLER",
-            "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
-         }
-      ]
-   }
+      {
+         "name":"RILEE ROSSOUW",
+         "age":"34",
+         "country":"SA",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"ASHTON TURNER",
+         "age":"30",
+         "country":"AUS",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"JAMES VINCE",
+         "age":"35",
+         "country":"ENG",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"SEDIQULLAH ATAL",
+         "age":"25",
+         "country":"AFG",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"MARK CHAPMAN",
+         "age":"32",
+         "country":"NZ",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"PATHUM NISSANKA",
+         "age":"27",
+         "country":"SL",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"BHANUKA RAJAPAKSA",
+         "age":"33",
+         "country":"SL",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"STEVE SMITH",
+         "age":"36",
+         "country":"AUS",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"TOWHID HRIDOY",
+         "age":"25",
+         "country":"BAN",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"MIKYLE LOUIS",
+         "age":"28",
+         "country":"WI",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"HARRY TECTOR",
+         "age":"27",
+         "country":"IRE",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"WILL YOUNG",
+         "age":"30",
+         "country":"NZ",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"NAJIBULLAH ZADRAN",
+         "age":"27",
+         "country":"AFG",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"IBRAHIM ZADRAN",
+         "age":"23",
+         "country":"AFG",
+         "category":"BATTER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"REECE TOPLEY",
+         "age":"30",
+         "country":"ENG",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"LIZARD WILLIAMS",
+         "age":"27",
+         "country":"WI",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"LUKE WOOD",
+         "age":"33",
+         "country":"ENG",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"JASON BEHRENDORFF",
+         "age":"34",
+         "country":"AUS",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"SHAMAR JOSEPH",
+         "age":"28",
+         "country":"WI",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"JOSH LITTLE",
+         "age":"26",
+         "country":"IRE",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"SHIVAM MAVI",
+         "age":"27",
+         "country":"IND",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"JHYE RICHARDSON",
+         "age":"29",
+         "country":"AUS",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"NAVDEEP SAINI",
+         "age":"29",
+         "country":"IND",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"OTTNEIL BAARTMAN",
+         "age":"32",
+         "country":"SA",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"DILSHAN MADUSHANKA",
+         "age":"27",
+         "country":"SL",
+         "category":"ALL-ROUNDER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"ADAM MILNE",
+         "age":"32",
+         "country":"NZ",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"CHETAN SAKARIYA",
+         "age":"27",
+         "country":"IND",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"SANDEEP WARRIER",
+         "age":"32",
+         "country":"IND",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"TASKIN AHMED",
+         "age":"29",
+         "country":"BAN",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"BEN DWARSHIUS",
+         "age":"27",
+         "country":"AUS",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"OBED MCCOY",
+         "age":"28",
+         "country":"WI",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"RILEY MEREDITH",
+         "age":"28",
+         "country":"AUS",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"LANCE MORRIS",
+         "age":"29",
+         "country":"AUS",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"OLLY STONE",
+         "age":"31",
+         "country":"ENG",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"DANIEL WORRALL",
+         "age":"31",
+         "country":"AUS",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"SHORIFUL ISLAM",
+         "age":"26",
+         "country":"BAN",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"BLESSING MAZURBANI",
+         "age":"28",
+         "country":"ZIM",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"DARYN DUPAVILLON",
+         "age":"33",
+         "country":"SA",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"LAHIRU KUMARA",
+         "age":"29",
+         "country":"SL",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"RICHARD NGARAVA",
+         "age":"28",
+         "country":"ZIM",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"WAYNE PARNELL",
+         "age":"34",
+         "country":"SA",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"ANDREW TYE",
+         "age":"36",
+         "country":"AUS",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"MATTHEW POTTS",
+         "age":"27",
+         "country":"ENG",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"TANZIM HASAN SAKIB",
+         "age":"25",
+         "country":"BAN",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"BENJAMIN SEARS",
+         "age":"28",
+         "country":"WI",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"JOHN TURNER",
+         "age":"26",
+         "country":"ENG",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"CHRIS JORDAN",
+         "age":"35",
+         "country":"ENG",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"HASAN MAHMUD",
+         "age":"28",
+         "country":"BAN",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"TYMAL MILLS",
+         "age":"32",
+         "country":"ENG",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"DAVID PAYNE",
+         "age":"35",
+         "country":"ENG",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      },
+      {
+         "name":"NAHID RANA",
+         "age":"24",
+         "country":"BAN",
+         "category":"BOWLER",
+         "img_url":"https://documents.iplt20.com/ipl/assets/images/Default-Men.png"
+      }
+   ]
+}
